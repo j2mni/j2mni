@@ -1,4 +1,4 @@
-### Hi there 👋
+### 병아리 iOS 개발자 권지민 입니다.👩🏻‍💻
 
 <!--
 **j2mni/j2mni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
