@@ -1,7 +1,7 @@
 ### 병아리 iOS 개발자 권지민 입니다.👩🏻‍💻
 
 <
-🍎 iOS 신입 개발자 <br>
+🍎 iOS 신입 개발자<br>
 <h4>tech skills</h4>
 < Swift / Node.js / Express.js / HTML5 / CSS3 / JavaScript / MySQL / Azure > <br>
 🐣 이력서 : https://www.notion.so/IOS-8322896a8c1e48b1862887a896044ee6
