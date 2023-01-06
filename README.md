@@ -2,7 +2,7 @@
 
 <
 🍎 iOS 신입 개발자<br>
-<h4>tech skills</h4>
+📚 <h4>tech skills</h4>
 Swift / Objective-C / Node.js / Express.js / HTML5 / CSS3 / JavaScript / MySQL / Azure >
 <br>
 🐣 이력서 : https://www.notion.so/IOS-8322896a8c1e48b1862887a896044ee6
